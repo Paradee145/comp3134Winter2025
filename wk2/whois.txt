@@ -1,0 +1,39 @@
+google.com
+
+Registrar: MarkMonitor Inc.
+Registration Date: September 15, 1997
+Expiration Date: September 14, 2028
+Registrant Organization: Google LLC
+Registrant Country: United States
+
+facebook.com
+
+Registrar: RegistrarSafe, LLC
+Registration Date: March 29, 1997
+Expiration Date: March 30, 2031
+Registrant Organization: Meta Platforms, Inc.
+Registrant Country: United States
+
+amazon.com
+
+Registrar: MarkMonitor Inc.
+Registration Date: November 1, 1994
+Expiration Date: October 31, 2028
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Country: United States
+
+twitter.com
+
+Registrar: MarkMonitor Inc.
+Registration Date: January 21, 2000
+Expiration Date: January 22, 2030
+Registrant Organization: Twitter, Inc.
+Registrant Country: United States
+
+microsoft.com
+
+Registrar: MarkMonitor Inc.
+Registration Date: May 2, 1991
+Expiration Date: May 3, 2026
+Registrant Organization: Microsoft Corporation
+Registrant Country: United States

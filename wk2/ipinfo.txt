@@ -1,0 +1,25 @@
+google.com
+
+IP Address: 142.250.72.14
+Location: Mountain View, California, USA
+ISP: Google LLC
+facebook.com
+
+IP Address: 157.240.229.35
+Location: Menlo Park, California, USA
+ISP: Facebook, Inc.
+amazon.com
+
+IP Address: 205.251.242.103
+Location: Seattle, Washington, USA
+ISP: Amazon.com, Inc.
+twitter.com
+
+IP Address: 104.244.42.1
+Location: San Francisco, California, USA
+ISP: Twitter Inc.
+microsoft.com
+
+IP Address: 20.84.181.62
+Location: Redmond, Washington, USA
+ISP: Microsoft Corporation
