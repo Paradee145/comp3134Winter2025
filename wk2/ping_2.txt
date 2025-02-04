@@ -1,1 +1,12 @@
-Access denied. Option -c requires administrative privileges.
+
+Pinging 134.122.46.80 with 32 bytes of data:
+Reply from 134.122.46.80: bytes=32 time=6ms TTL=51
+Reply from 134.122.46.80: bytes=32 time=5ms TTL=51
+Reply from 134.122.46.80: bytes=32 time=6ms TTL=51
+Reply from 134.122.46.80: bytes=32 time=63ms TTL=51
+Reply from 134.122.46.80: bytes=32 time=5ms TTL=51
+
+Ping statistics for 134.122.46.80:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 63ms, Average = 17ms
