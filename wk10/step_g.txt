@@ -1,0 +1,5 @@
+Step H: Securing Comments in Source Code
+
+- HTML comments (`<!-- ... -->`) are visible in browser "View Source," exposing sensitive data.
+- PHP comments (`// ...` or `/* ... */`) are **not** visible in the source code when viewed in a browser.
+- This prevents attackers from easily discovering internal credentials or secrets.
