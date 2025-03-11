@@ -1,0 +1,10 @@
+14:16:29.520190 ARP, Request who-has 172.19.186.122 (00:15:5d:9b:54:40 (oui Unknown)) tell DESKTOP-BTS6FR2.mshome.net, length 28
+14:16:29.520202 ARP, Reply 172.19.186.122 is-at 00:15:5d:9b:54:40 (oui Unknown), length 28
+14:16:56.759037 IP 172.19.186.122.43422 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:16:56.856059 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.19.186.122.43422: NTPv4, Server, length 48
+14:17:01.045400 ARP, Request who-has 172.19.186.122 (00:15:5d:9b:54:40 (oui Unknown)) tell DESKTOP-BTS6FR2.mshome.net, length 28
+14:17:01.045418 ARP, Reply 172.19.186.122 is-at 00:15:5d:9b:54:40 (oui Unknown), length 28
+14:17:01.127963 ARP, Request who-has DESKTOP-BTS6FR2.mshome.net tell 172.19.186.122, length 28
+14:17:01.128760 ARP, Reply DESKTOP-BTS6FR2.mshome.net is-at 00:15:5d:ea:ce:75 (oui Unknown), length 28
+14:17:17.269003 IP DESKTOP-BTS6FR2.mshome.net.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+14:17:17.269748 IP6 fe80::3897:2b36:a04a:e372.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
