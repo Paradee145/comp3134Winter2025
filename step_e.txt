@@ -1,7 +1,0 @@
-Step E: Secure Directory Traversal Fix
-
-- Used realpath() to ensure users cannot access directories outside /var/www/html.
-- Used file_exists() to verify that the requested folder exists before scanning.
-- Used is_file() to prevent accessing files instead of directories.
-- The script now blocks directory traversal attempts using '../' or encoded paths.
-- This prevents attackers from viewing system files outside the web directory.
