@@ -1,1 +1,8 @@
-
+tcpdump: data link type LINUX_SLL2
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+14:59:13.801902 eth0  Out IP6 fe80::215:5dff:fe75:ccf0 > ip6-allrouters: ICMP6, router solicitation, length 16
+14:59:13.842471 lo    In  IP 10.255.255.254.42372 > 10.255.255.254.domain: 38030+ PTR? 0.f.c.c.5.7.e.f.f.f.d.5.5.1.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+14:59:13.850616 lo    In  IP 10.255.255.254.domain > 10.255.255.254.42372: 38030 NXDomain 0/1/0 (149)
+14:59:13.952254 lo    In  IP 10.255.255.254.60352 > 10.255.255.254.domain: 52839+ PTR? 254.255.255.10.in-addr.arpa. (45)
+14:59:18.957494 lo    In  IP 10.255.255.254.60352 > 10.255.255.254.domain: 52839+ PTR? 254.255.255.10.in-addr.arpa. (45)
