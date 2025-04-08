@@ -1,0 +1,5 @@
+What I see on the browser:
+The page tries to display the contents of a folder named "hello", but that folder does not exist. As a result, a warning or error message is shown.
+
+What sensitive information is given by this page:
+The error message reveals internal details such as the file path, structure of the server, or PHP warnings. This information can be useful for attackers trying to understand the server environment.
