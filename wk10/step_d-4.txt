@@ -1,0 +1,5 @@
+What I see on the browser:
+The page displays the contents of a directory two levels above the current folder (../../), which means it escapes the web root.
+
+What sensitive information is given by this page:
+It allows the user to access files and folders outside of the intended web directory. This could include system configuration files, logs, or other private data, which should not be accessible from a web browser.
