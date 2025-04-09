@@ -1,0 +1,5 @@
+What I see on the browser:
+The script decodes the encoded path and still allows traversal to a parent directory. It shows the contents of the folder above the web root.
+
+What sensitive information is given by this page:
+Even with URL encoding, the server reveals internal files and directories. This can be used by attackers to bypass filters and explore sensitive areas of the file system.
