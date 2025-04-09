@@ -1,2 +1,0 @@
-Cookies store user data such as login sessions and preferences. 
-They help websites recognize users but can be stolen by hackers.

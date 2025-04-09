@@ -1,6 +1,0 @@
-1. Valid word: Works fine, shows the definition.
-2. Invalid word: Shows "No results found."
-3. Script tag in search box: No alert popup (sanitized input).
-4. Script tag in URL:
-   - In vulnerable script: The alert popped up.
-   - In secure script: The script was displayed as plain text (safe).
