@@ -1,0 +1,8 @@
+The stored XSS issue happens when user input containing malicious script is saved on the server (e.g., in a file or database) and then displayed without any sanitization.
+
+In this lab, the storedxss.txt file contains a script:
+<script>document.location.href="/directory_traversal_part1.php"</script>
+
+When storexss.php loads this file and displays its content without filtering, the browser runs the script. This can redirect the user, steal cookies, or execute harmful actions.
+
+This makes stored XSS more dangerous than reflected XSS because it runs every time the page loads.

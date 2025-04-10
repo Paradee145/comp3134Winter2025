@@ -1,0 +1,8 @@
+When testing the CSRF protection, I noticed the following:
+
+- When I used the regular csfr.html form (without token), the form submission worked — this shows how attackers can submit fake requests.
+- When I used the secure csfr_form.php and csfr_action.php pages, the session generated a confirmation token.
+- If the token value matched, the form submission was accepted.
+- If the token was missing or didn’t match, the request was rejected.
+
+This proves that using a session-based token helps prevent CSRF attacks by verifying the request came from a trusted source.
