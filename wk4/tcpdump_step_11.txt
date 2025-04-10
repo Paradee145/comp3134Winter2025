@@ -1,0 +1,7 @@
+Command:
+sudo tcpdump -i any -w capture_output.pcap
+
+Explanation:
+This command captures packets from any available interface and writes them to a binary file named 'capture_output.pcap'. 
+This file can later be opened in Wireshark for deep packet inspection or read using:
+    sudo tcpdump -r capture_output.pcap
