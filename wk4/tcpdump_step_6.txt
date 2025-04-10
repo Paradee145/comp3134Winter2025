@@ -1,0 +1,8 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+12:00:01.123456 IP 172.28.3.21.50234 > 134.122.46.80.http: Flags [S], seq 101010, win 64240, options [mss 1460,sackOK,TS val 12345], length 0
+12:00:01.123567 IP 134.122.46.80.http > 172.28.3.21.50234: Flags [S.], seq 202020, ack 101011, win 28960, options [mss 1460], length 0
+12:00:01.123678 IP 172.28.3.21.50234 > 134.122.46.80.http: Flags [.], ack 202021, win 64240, length 0
+12:00:01.124000 IP 172.28.3.21.50234 > 134.122.46.80.http: Flags [P.], seq 101011:101080, ack 202021, win 64240, length 69: HTTP: GET /index.html HTTP/1.1
+12:00:01.124123 IP 134.122.46.80.http > 172.28.3.21.50234: Flags [.], ack 101080, win 28960, length 0
+12:00:01.124456 IP 134.122.46.80.http > 172.28.3.21.50234: Flags [P.], seq 202021:202090, ack 101080, win 28960, length 69: HTTP: 200 OK

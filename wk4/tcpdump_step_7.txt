@@ -1,0 +1,13 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+12:02:00.234567 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [S], seq 110110, win 65535, length 0
+12:02:00.234789 IP 93.184.216.34.443 > 172.28.3.21.54321: Flags [S.], seq 220220, ack 110111, win 65535, length 0
+12:02:00.234901 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [.], ack 220221, win 65535, length 0
+12:02:00.235000 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [P.], seq 110111:110180, ack 220221, length 69
+12:02:00.235100 IP 93.184.216.34.443 > 172.28.3.21.54321: Flags [P.], seq 220221:220290, ack 110180, length 69
+12:02:00.235200 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [F.], seq 110180, ack 220290, length 0
+12:02:00.235300 IP 93.184.216.34.443 > 172.28.3.21.54321: Flags [F.], seq 220290, ack 110181, length 0
+12:02:00.235400 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [.], ack 220291, length 0
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel

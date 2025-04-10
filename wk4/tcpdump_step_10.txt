@@ -1,0 +1,11 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+12:07:01.123456 IP 172.28.3.21 > 8.8.8.8: ICMP echo request, id 1, seq 1, length 64
+12:07:01.123789 IP 8.8.8.8 > 172.28.3.21: ICMP echo reply, id 1, seq 1, length 64
+12:07:02.123456 IP 172.28.3.21 > 8.8.8.8: ICMP echo request, id 1, seq 2, length 64
+12:07:02.123789 IP 8.8.8.8 > 172.28.3.21: ICMP echo reply, id 1, seq 2, length 64
+12:07:03.123456 IP 172.28.3.21 > 8.8.8.8: ICMP echo request, id 1, seq 3, length 64
+12:07:03.123789 IP 8.8.8.8 > 172.28.3.21: ICMP echo reply, id 1, seq 3, length 64
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel

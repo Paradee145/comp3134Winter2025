@@ -1,0 +1,13 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+12:05:01.123456 IP 172.28.3.21.56789 > 8.8.8.8.53: UDP, length 32
+12:05:01.123789 IP 8.8.8.8.53 > 172.28.3.21.56789: UDP, length 48
+12:05:02.123456 IP 172.28.3.21.56790 > 8.8.4.4.53: UDP, length 40
+12:05:02.123789 IP 8.8.4.4.53 > 172.28.3.21.56790: UDP, length 56
+12:05:03.123456 IP 172.28.3.21.56791 > 1.1.1.1.53: UDP, length 28
+12:05:03.123789 IP 1.1.1.1.53 > 172.28.3.21.56791: UDP, length 44
+12:05:04.123456 IP 172.28.3.21.56792 > 8.8.8.8.53: UDP, length 36
+12:05:04.123789 IP 8.8.8.8.53 > 172.28.3.21.56792: UDP, length 52
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel

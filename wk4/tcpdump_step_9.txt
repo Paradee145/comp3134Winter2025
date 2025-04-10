@@ -1,0 +1,11 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
+12:06:01.123456 IP 172.28.3.21.46890 > 8.8.8.8.53: 12345+ A? google.com. (28)
+12:06:01.123789 IP 8.8.8.8.53 > 172.28.3.21.46890: 12345 1/0/0 A 142.250.72.78 (44)
+12:06:02.123456 IP 172.28.3.21.46891 > 8.8.4.4.53: 12346+ A? yahoo.com. (28)
+12:06:02.123789 IP 8.8.4.4.53 > 172.28.3.21.46891: 12346 1/0/0 A 74.6.231.21 (44)
+12:06:03.123456 IP 172.28.3.21.46892 > 1.1.1.1.53: 12347+ A? example.com. (30)
+12:06:03.123789 IP 1.1.1.1.53 > 172.28.3.21.46892: 12347 1/0/0 A 93.184.216.34 (50)
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel
