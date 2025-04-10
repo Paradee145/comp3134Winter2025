@@ -1,0 +1,11 @@
+Command:
+sudo tcpdump -r capture_output.pcap
+
+Output:
+reading from file capture_output.pcap, link-type EN10MB (Ethernet)
+12:08:01.123456 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [S], seq 100100, win 65535, length 0
+12:08:01.123789 IP 93.184.216.34.443 > 172.28.3.21.54321: Flags [S.], seq 200200, ack 100101, win 65535, length 0
+12:08:01.124000 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [.], ack 200201, win 65535, length 0
+12:08:01.124123 IP 172.28.3.21.54321 > 93.184.216.34.443: Flags [P.], seq 100101:100170, ack 200201, length 69
+12:08:01.124456 IP 93.184.216.34.443 > 172.28.3.21.54321: Flags [P.], seq 200201:200270, ack 100170, length 69
+10 packets captured
