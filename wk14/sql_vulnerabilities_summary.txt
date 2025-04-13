@@ -1,0 +1,5 @@
+1. Ben — Returned 0 rows because Ben is inactive (active = 0).
+
+2. Ben’-- — Broke the query due to an unmatched single quote and SQL comment. This may cause an error or return incorrect results.
+
+3. Ben’ or 1=1 — Bypassed the intended filter and exposed all records with active = 1 due to SQL injection.
